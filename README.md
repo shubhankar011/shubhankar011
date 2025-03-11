@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhankar011
 - 👀 I’m interested in Full Stack Development, App Development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Groq
 - 📫 How to reach me - shubhankarpandey2007@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know how I started coding but I know where to go
