@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - 😎 Recent Project - I've built YT Video Downloader and currently working on custom Homepage
 - ⚡ Fun fact: I don't know how I started coding but I know where to go
-- 😅 Hit me up on socials <a href=https://www.instagram.com/shubhankar_7002/>@shubhankar_7002></a>
+- 😅 Hit me up on socials <a href=https://www.instagram.com/shubhankar_7002/>@shubhankar_7002</a>
 
 <!---
 shubhankar011/shubhankar011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
