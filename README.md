@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA with C++ and ML.
 - 📫 How to reach me - shubhankarpandey2007@outlook.com
 - 😄 Pronouns: He/Him
-- 😎 Recent Project - I've built YT Video Downloader and currently working on custom Homepage
+- 😎 Recent Project - I've built YT Video Downloader
 - ⚡ Fun fact: I don't know how I started coding but I know where to go
 - 😅 Hit me up on socials <a href=https://www.instagram.com/shubhankar_7002/>@shubhankar_7002</a>
 
