@@ -5,6 +5,8 @@
 - 😄 Pronouns: He/Him
 - 😎 Recent Project - I've built YT Video Downloader
 - 🫡 Ongoing Project - Custom Homepage
+- 💻 IDE I use - VS Code, PyCharm, Visual Studio C++, Anaconda.
+- 🤖 Languages - C/C++ 23, JavaScript & node.js, Python, Kotlin  
 - ⚡ Fun fact: I don't know how I started coding but I know where to go
 - 😅 Hit me up on socials <a href=https://www.instagram.com/shubhankar_7002/>@shubhankar_7002</a>
 
