@@ -34,7 +34,7 @@ YouTube video downloader built with Python, Flask, yt-dlp, HTML/CSS/JS. Download
 **Status:** In Development  
 A reimagined, modernized version of Project Gutenberg with enhanced UI/UX.
 
-### 🏠 Custom Homepage
+### 🏠 [Custom Homepage](https://github.com/shubhankar011/CustomHomepage)
 **Status:** Beta Released  
 Personal browser homepage with custom features and modern design.
 
