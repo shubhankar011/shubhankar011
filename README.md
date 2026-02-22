@@ -116,7 +116,6 @@ const shubhankar = {
       <h3 align="center">🤖 AI Health Management Backend</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/HealthManagement_Backend" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=HealthManagement_Backend&theme=tokyonight" alt="HealthManagement Backend" />
         </a>
         <p><strong>Python, Flask, AI Integration</strong></p>
         <p>AI-powered health tracking system with BMI monitoring, user authentication, and intelligent chatbot for personalized health guidance.</p>
@@ -126,7 +125,6 @@ const shubhankar = {
       <h3 align="center">🎥 YouTube Video Downloader</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/toDownVidYT" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=toDownVidYT&theme=tokyonight" alt="toDownVidYT" />
         </a>
         <p><strong>Python, Flask, yt-dlp</strong></p>
         <p>Full-stack video downloader with custom naming, modern UI, and high-quality downloads using Flask and yt-dlp.</p>
@@ -138,7 +136,6 @@ const shubhankar = {
       <h3 align="center">📚 Project Gutenberg Reimagined</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/ProjectGutenberg_Reimagined" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=ProjectGutenberg_Reimagined&theme=tokyonight" alt="ProjectGutenberg" />
         </a>
         <p><strong>HTML, CSS, JavaScript</strong></p>
         <p>Modern reimagination of Project Gutenberg with enhanced UI/UX and contemporary web design. 🚧 In Development</p>
@@ -148,7 +145,7 @@ const shubhankar = {
       <h3 align="center">🏠 Custom Homepage</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=CustomHomepage&theme=tokyonight" alt="Custom Homepage" />
+          <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=CustomHomepage&theme=tokyonight" alt="Custom Homepage" /> -->
         </a>
         <p><strong>React, Tailwind CSS</strong></p>
         <p>Personalized browser homepage with widgets, shortcuts, and modern design. ✅ Beta Released</p>
@@ -160,7 +157,7 @@ const shubhankar = {
       <h3 align="center">💼 Employee Data Management</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/EmployeeDataStoringInC" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=EmployeeDataStoringInC&theme=tokyonight" alt="Employee Data" />
+          <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=EmployeeDataStoringInC&theme=tokyonight" alt="Employee Data" /> -->
         </a>
         <p><strong>C Programming</strong></p>
         <p>Efficient employee data management system implemented in C with CRUD operations and file handling.</p>
@@ -170,7 +167,7 @@ const shubhankar = {
       <h3 align="center">🐍 Python Practice Problems</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/ProblemsinPython_basicLevel" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=ProblemsinPython_basicLevel&theme=tokyonight" alt="Python Problems" />
+          <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=ProblemsinPython_basicLevel&theme=tokyonight" alt="Python Problems" /> -->
         </a>
         <p><strong>Python</strong></p>
         <p>Collection of Python practice problems and solutions for skill development and interview preparation.</p>
@@ -214,10 +211,10 @@ const shubhankar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhankar011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhankar011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/> -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankar011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar011&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+<!-- <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar011&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/> -->
 
 </div>
 
@@ -229,14 +226,12 @@ const shubhankar = {
   <tr>
     <td align="center">
       <a href="https://github.com/pratyush789245/HealthManagement_Backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratyush789245&repo=HealthManagement_Backend&theme=tokyonight" alt="HealthManagement Backend" />
       </a>
       <p><strong>Contributor</strong> - Backend development & AI integration</p>
       <p>by <a href="https://github.com/pratyush789245">@pratyush789245</a></p>
     </td>
     <td align="center">
       <a href="https://github.com/viratdixit2009-ctrl/practice-codes-and-projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viratdixit2009-ctrl&repo=practice-codes-and-projects&theme=tokyonight" alt="Practice Codes" />
       </a>
       <p><strong>Contributor</strong> - Code contributions & improvements</p>
       <p>by <a href="https://github.com/viratdixit2009-ctrl">@viratdixit2009-ctrl</a></p>
@@ -245,15 +240,10 @@ const shubhankar = {
 </table>
 
 </div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
+<!-- ## 🏅 GitHub Trophies <div align="center">
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shubhankar011&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
-
 </div>
-
+-->
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -369,7 +359,7 @@ print(goals.get_motto())
 
 **If you like my work, consider giving it a ⭐!**
 
-![Snake animation](https://raw.githubusercontent.com/shubhankar011/shubhankar011/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/shubhankar011/shubhankar011/output/github-contribution-grid-snake-dark.svg) -->
 
 </div>
 <!-- # Hey! 👋 I'm Shubhankar Kumar
