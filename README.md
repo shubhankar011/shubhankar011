@@ -247,7 +247,9 @@ const shubhankar = {
 
 ## 📈 Contribution Graph
 <div align="center">
+  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhankar011&theme=tokyo-night&hide_border=true&area=true)](https://github.com/shubhankar011)
+
 </div>
 
 ## 🌟 Current Focus
