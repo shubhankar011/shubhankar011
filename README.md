@@ -113,7 +113,7 @@ const shubhankar = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 AI Health Management Backend</h3>
+      <h3 align="center"> AI Health Management Backend</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/HealthManagement_Backend" target="_blank">
         </a>
@@ -122,7 +122,7 @@ const shubhankar = {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎥 YouTube Video Downloader</h3>
+      <h3 align="center"> YouTube Video Downloader</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/toDownVidYT" target="_blank">
         </a>
@@ -133,7 +133,7 @@ const shubhankar = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📚 Project Gutenberg Reimagined</h3>
+      <h3 align="center"> Project Gutenberg Reimagined</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/ProjectGutenberg_Reimagined" target="_blank">
         </a>
@@ -142,7 +142,7 @@ const shubhankar = {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🏠 Custom Homepage</h3>
+      <h3 align="center"> Custom Homepage</h3>
       <div align="center">
         <a href="#" target="_blank">
           <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=CustomHomepage&theme=tokyonight" alt="Custom Homepage" /> -->
@@ -154,7 +154,7 @@ const shubhankar = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💼 Employee Data Management</h3>
+      <h3 align="center"> Employee Data Management</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/EmployeeDataStoringInC" target="_blank">
           <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=EmployeeDataStoringInC&theme=tokyonight" alt="Employee Data" /> -->
@@ -164,7 +164,7 @@ const shubhankar = {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🐍 Python Practice Problems</h3>
+      <h3 align="center"> Python Practice Problems</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/ProblemsinPython_basicLevel" target="_blank">
           <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=ProblemsinPython_basicLevel&theme=tokyonight" alt="Python Problems" /> -->
