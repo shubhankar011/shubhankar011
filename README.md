@@ -442,14 +442,14 @@ Repository: [CodeForce_Problems](https://github.com/shubhankar011/CodeForce_Prob
 
 ## 📫 Let's Connect
 
-- 📧 Email: [shubhankarpandey2007@outlook.com](mailto:shubhankarpandey2007@outlook.com)
-- 📸 Instagram: [@shubhankar_7002](https://www.instagram.com/shubhankar_7002/)
-- 🐦 X (Twitter): [@Shubhankar4264](https://x.com/Shubhankar4264)
-- 💼 LinkedIn: [shubhankar-kumar](https://www.linkedin.com/in/shubhankar-kumar-964b74344/)
+- Email: [shubhankarpandey2007@outlook.com](mailto:shubhankarpandey2007@outlook.com)
+- Instagram: [@shubhankar_7002](https://www.instagram.com/shubhankar_7002/)
+- X (Twitter): [@Shubhankar4264](https://x.com/Shubhankar4264)
+- LinkedIn: [shubhankar-kumar](https://www.linkedin.com/in/shubhankar-kumar-964b74344/)
 
 ---
 
 **Pronouns:** He/Him  
 **Location:** Etawah, Uttar Pradesh, India  
 
-⚡ **Fun fact:** I don't know how I started coding but I know where to go -->
+ **Fun fact:** I don't know how I started coding but I know where to go -->
