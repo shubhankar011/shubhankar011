@@ -141,7 +141,7 @@ const shubhankar = {
     <td width="50%">
       <h3 align="center"> Custom Homepage</h3>
       <div align="center">
-        <a href="cleartab.vercel.app" target="_blank">
+        <a href="https://cleartab.vercel.app/">
           Try it!
           <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=CustomHomepage&theme=tokyonight" alt="Custom Homepage" /> -->
         </a>
