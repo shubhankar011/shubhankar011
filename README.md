@@ -1,13 +1,10 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,1,22&height=200&section=header&text=Shubhankar%20Kumar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Competitive%20Coder%20%7C%20Full%20Stack&descAlignY=55&descSize=20" />
 
-<!-- Dynamic Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Shubhankar+Kumar;Full+Stack+Developer+%7C+AI+Enthusiast;Competitive+Programmer+%7C+Open+Source+Contributor;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=shubhankar011&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-<!-- Social Badges -->
 <p align="center">
   <a href="https://https://www.linkedin.com/in/shubhankar-kumar-aa42a23b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -138,17 +135,18 @@ const shubhankar = {
         <a href="https://github.com/shubhankar011/ProjectGutenberg_Reimagined" target="_blank">
         </a>
         <p><strong>HTML, CSS, JavaScript</strong></p>
-        <p>Modern reimagination of Project Gutenberg with enhanced UI/UX and contemporary web design. 🚧 In Development</p>
+        <p>Modern reimagination of Project Gutenberg with enhanced UI/UX and contemporary web design. In Development</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"> Custom Homepage</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="cleartab.vercel.app" target="_blank">
+          Try it!
           <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=CustomHomepage&theme=tokyonight" alt="Custom Homepage" /> -->
         </a>
         <p><strong>React, Tailwind CSS</strong></p>
-        <p>Personalized browser homepage with widgets, shortcuts, and modern design. ✅ Beta Released</p>
+        <p>Personalized browser homepage with widgets, shortcuts, and modern design. Beta Released</p>
       </div>
     </td>
   </tr>
@@ -227,7 +225,7 @@ const shubhankar = {
     <td align="center">
       <a href="https://github.com/pratyush789245/HealthManagement_Backend">
       </a>
-      <p><strong>Contributor</strong> - Backend development & AI integration</p>
+      <p><strong>Contributor</strong> - Health Management - (development & AI integration) </p>
       <p>by <a href="https://github.com/pratyush789245">@pratyush789245</a></p>
     </td>
     <td align="center">
@@ -355,7 +353,7 @@ print(goals.get_motto())
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 
-### ⭐ From [Shubhankar Kumar](https://github.com/shubhankar011) with ❤️
+### ⭐ From [Shubhankar Kumar](https://github.com/shubhankar011)
 
 **If you like my work, consider giving it a ⭐!**
 
@@ -453,3 +451,4 @@ Repository: [CodeForce_Problems](https://github.com/shubhankar011/CodeForce_Prob
 **Location:** Etawah, Uttar Pradesh, India  
 
  **Fun fact:** I don't know how I started coding but I know where to go -->
+-->
