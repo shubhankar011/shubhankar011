@@ -145,7 +145,7 @@ const shubhankar = {
           Try it!
           <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=CustomHomepage&theme=tokyonight" alt="Custom Homepage" /> -->
         </a>
-        <p><strong>React, Tailwind CSS</strong></p>
+        <p><strong>JS, CSS</strong></p>
         <p>Personalized browser homepage with widgets, shortcuts, and modern design. Beta Released</p>
       </div>
     </td>
@@ -155,20 +155,24 @@ const shubhankar = {
       <h3 align="center"> Employee Data Management</h3>
       <div align="center">
         <a href="https://github.com/shubhankar011/EmployeeDataStoringInC" target="_blank">
-          <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=EmployeeDataStoringInC&theme=tokyonight" alt="Employee Data" /> -->
+          <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=EmployeeDataStoringInC&theme=tokyonight" alt="Employee Data" /> -->    Contribute
         </a>
         <p><strong>C Programming</strong></p>
         <p>Efficient employee data management system implemented in C with CRUD operations and file handling.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"> Python Practice Problems</h3>
+      <h3 align="center"> MTUNES Bot</h3>
       <div align="center">
-        <a href="https://github.com/shubhankar011/ProblemsinPython_basicLevel" target="_blank">
-          <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=ProblemsinPython_basicLevel&theme=tokyonight" alt="Python Problems" /> -->
+        <a href="https://github.com/shubhankar011/MTUNES">
+          Contribute
         </a>
-        <p><strong>Python</strong></p>
-        <p>Collection of Python practice problems and solutions for skill development and interview preparation.</p>
+        <a href="mtunesbot.vercel.app" target="_blank">
+          <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=ProblemsinPython_basicLevel&theme=tokyonight" alt="Python Problems" /> -->
+          Connect it to your server!
+        </a>
+        <p><strong>Python Node.js React Tailwind CSS</strong></p>
+        <p>MTUNES is a discord bot for playing music in voice channels with friends</p>
       </div>
     </td>
   </tr>
