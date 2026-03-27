@@ -163,7 +163,7 @@ const shubhankar = {
     </td>
     <td width="50%">
       <h3 align="center"> MTUNES Bot</h3>
-      <div align="center">
+      <div align="center" style="display:flex; flex-direction:column;">
         <a href="https://github.com/shubhankar011/MTUNES">
           Contribute
         </a>
