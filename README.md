@@ -163,10 +163,11 @@ const shubhankar = {
     </td>
     <td width="50%">
       <h3 align="center"> MTUNES Bot</h3>
-      <div align="center" style="display:flex; flex-direction:column;">
+      <div align="center">
         <a href="https://github.com/shubhankar011/MTUNES">
           Contribute
         </a>
+        <br>
         <a href="mtunesbot.vercel.app" target="_blank">
           <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhankar011&repo=ProblemsinPython_basicLevel&theme=tokyonight" alt="Python Problems" /> -->
           Connect it to your server!
